@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidCourseTask</string>
+    <string name="btn_go_to_second_activity">Go to Second Activity</string>
+    <string name="txt_value_of_config_changes">0</string>
+    <string name="txt_first_activity">First Activity</string>
+    <string name="txt_count_of_configuration_changes">Count of configuration changes:</string>
+    <string name="txt_square_count_cnf_ch">0</string>
+    <string name="txt_second_activity">Second Activity</string>
+    <string name="txt_second_activity_descr">Square of count configuration changes from First Activity:</string>
+</resources>
